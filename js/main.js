@@ -4,6 +4,10 @@ let inputsArray = Array.from(inputs);
 
 const preferences = {
   name: "",
+  name2: "",
+  name3: "",
+  name4: "",
+  name5: "",
   mode: "",
   search_engine: "",
   common: "a ver si no lo habíamos rellenado",
